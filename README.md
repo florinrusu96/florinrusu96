@@ -4,7 +4,7 @@
 
 - 🔭 Always on the lookout for the new stuff.
 - 🌱 I’m currently learning GoLang 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other software developers.
 - 🥅 Goals: Start to contribute to opensource projects
 - ⚡ Fun fact: I try to do sports, love movies/tv shows and Reading
 
